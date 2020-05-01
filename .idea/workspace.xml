@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZbAR3Q49xhPcVsdbhQ4tR6feUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +26,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.11_HL_max_guesses">
-    <configuration name="08_HL_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\james\school stuff\com101\HL_Game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.06_HL_StatementGenerator">
+    <configuration name="01_HL_UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HL_Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_HL_score.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_HL_UserInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09a_Stats_Experiment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_HL_Final_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HL_Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09a_Stats_Experiment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_HL_Final_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09b_HL_stats_implemented" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_HL_StatementGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HL_Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09b_HL_stats_implemented.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_HL_StatementGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_HL_max_guesses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HL_Final_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HL_Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_HL_max_guesses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HL_Final_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11_HL_max_guesses" />
+        <item itemvalue="Python.06_HL_StatementGenerator" />
+        <item itemvalue="Python.HL_Final_Game" />
+        <item itemvalue="Python.01_HL_UserInput" />
         <item itemvalue="Python.10_HL_loop_game" />
-        <item itemvalue="Python.09b_HL_stats_implemented" />
-        <item itemvalue="Python.08_HL_score" />
-        <item itemvalue="Python.09a_Stats_Experiment" />
+        <item itemvalue="Python.02_HL_Final_Game" />
       </list>
     </recent_temporary>
   </component>
@@ -144,21 +153,21 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="317" key="GridCell.Tab.0.bottom" timestamp="1585206396307">
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom" timestamp="1588318037776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585206396307" />
-    <state width="936" height="317" key="GridCell.Tab.0.center" timestamp="1585206396306">
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588318037776" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center" timestamp="1588318037776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585206396306" />
-    <state width="936" height="317" key="GridCell.Tab.0.left" timestamp="1585206396306">
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588318037776" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left" timestamp="1588318037776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585206396306" />
-    <state width="936" height="317" key="GridCell.Tab.0.right" timestamp="1585206396306">
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588318037776" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right" timestamp="1588318037776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585206396306" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588318037776" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 # HL component 6 - Statement Generator
-
+rounds_played = 0
+rounds = 3
 def hl_statement(statement, char):
     print()
     print(char*len(statement))
@@ -21,7 +22,7 @@ print()
 well_done = hl_statement("*** Well done! You got it in 3 guesses ***", "*")
 
 print()
-start_round = hl_statement("### Round 1 of 3 ###", "#")
+start_round = hl_statement("### Round {} of {} ###", "#")
 
 print()
 loss = hl_statement("--- You Lose ---", "-")
